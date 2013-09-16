@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Exchange_Calendar_To_iCal.Properties {
+namespace RoomBook.Properties {
     using System;
     
     
